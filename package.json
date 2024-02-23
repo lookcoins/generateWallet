@@ -1,5 +1,5 @@
 {
-  "name": "generatewallet",
+  "name": "luckwallet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "luckwallet": "^1.0.0"
   }
 }
